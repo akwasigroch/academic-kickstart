@@ -68,6 +68,6 @@ email: ""
 ---
 # Info
 
-Agnieszka Mikołajczyk is a researcher from Gdańsk University of Technology. We work together in one team. She is interested in following fields: machine learning, explainable AI, and image analysis. 
+Agnieszka Mikołajczyk is a researcher at Gdańsk University of Technology. We work together in one team. Her research interests include machine learning, explainable AI, and image analysis. 
 
 [**Click here to visit her website**](https://amikolajczyk.netlify.com/)
