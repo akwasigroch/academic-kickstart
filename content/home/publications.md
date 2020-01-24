@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent publications"
-subtitle = "More on my Google Scholar account"
+subtitle = "More on my Google Scholar profile"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
