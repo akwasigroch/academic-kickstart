@@ -8112,9 +8112,12 @@ ul.share li:hover i {
 /*************************************************
  *  Author profile card
  **************************************************/
-.author-card .avatar {
+.author-card .portrait {
   width: 60px;
-  height: 60px; }
+  height: 60px;
+  margin: 0 auto;
+  border-radius: 50%;
+  object-fit: cover; }
 
 .author-card .card-title {
   margin-top: 0;
@@ -8434,22 +8437,12 @@ a.hero-cta-alt:hover {
   padding: 30px 10px;
   position: relative; }
 
-.avatar {
-  width: 270px;
-  height: 270px;
+.portrait {
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
+  border-radius: 50%;
   object-fit: cover; }
-
-@media (max-width: 767.98px) {
-  .wg-about .avatar {
-    width: 200px;
-    height: 200px; } }
-
-.avatar-circle {
-  border-radius: 50%; }
-
-.avatar-square {
-  border-radius: 3px; }
 
 .portrait-title h2 {
   font-size: 1.75em;
@@ -8643,7 +8636,7 @@ ul.ul-edu li .description p.institution {
 .people-widget .portrait-title h3 {
   font-size: 0.7rem; }
 
-.people-widget .avatar {
+.people-widget .portrait {
   width: 80%;
   max-width: 150px;
   height: auto; }
@@ -9004,3 +8997,9 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+.article-container {
+  max-width: 60%; }
+
+.article-style {
+  text-align: justify; }
