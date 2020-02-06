@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Probabilistic PCA implementation"
+title: "Learn about probabilistic PCA to better understand Variational Autoencoders"
 subtitle: ""
 summary: ""
 authors: []
