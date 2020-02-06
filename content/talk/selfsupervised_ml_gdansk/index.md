@@ -3,7 +3,7 @@ title: Self-supervised learning in computer vision
 event: Machine Learning Group Gdańsk meeting
 event_url: https://www.mlgdansk.pl/
 
-location: Gdańsk University of Technology
+location: Gdańsk University of Technology, Building WETI B, Room 106
 
 summary: 
 abstract: "The field of self-supervised learning is gaining more and more attention. This family of methods allows for unsupervised pretraining of neural networks that lead to better performance in the target tasks (classification, detection, etc). The skillful design of unsupervised task and loss function causes the network learning valuable features. During the talk, I will present the latest, efficient methods that lead to performance increase on many benchmark datasets"
