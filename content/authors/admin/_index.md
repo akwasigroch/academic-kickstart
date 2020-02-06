@@ -78,5 +78,5 @@ user_groups:
 - Visitors
 ---
 
-**Arkadiusz Kwasigroch** is an assistant researcher in the field of deep learning at the Gdańsk University of Technology. His research interests include the use of deep learning in the field of computer vision.  He conducts research on neural architecture search and skin lesion classification. 
+I am an assistant researcher in the field of deep learning at the Gdańsk University of Technology. My research interests include deep learning algorithms in the field of computer vision.  I conducts research on neural architecture search and skin lesion classification. I am also interested in self-supervised learning methods.
 
