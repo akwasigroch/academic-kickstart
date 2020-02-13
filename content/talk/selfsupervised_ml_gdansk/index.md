@@ -36,7 +36,7 @@ image:
 #   url: https://twitter.com/a_kwasigroch
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/akwasigroch/talks/blob/master/pl/ml_group/self-supervised_learning.pdf"
 url_video: ""
 share: false
 # Markdown Slides (optional).
