@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: ['Blog']
-date: 2020-02-19T22:38:09+01:00
-lastmod: 2020-02-19T22:38:09+01:00
+date: 2020-03-08T22:38:09+01:00
+lastmod: 2020-03-08T22:38:09+01:00
 featured: false
 draft: false
 links:
@@ -37,7 +37,7 @@ image:
 projects: []
 commentable: true
 share: false
-math: true
+#math: true
 ---
 ## Introduction
 Recently, I have started to experiment with self-supervised learning techniques. In the last few months, we can see the rapid development of new methods. Moreover, self-supervised learning is reaching transfer learning performance.
