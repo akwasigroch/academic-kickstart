@@ -25,7 +25,7 @@ tags: []
 featured: true
 
 image:
- caption: 'Image credit: [PG ETI](https://pg.edu.pl/)'
+ caption: ""
  focal_point: Right
  preview_only: true
 
