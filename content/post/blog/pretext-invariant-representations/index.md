@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Self supervised learning with pretext invariant representations"
+title: "Self-supervised learning with pretext invariant representations"
 subtitle: ""
 summary: ""
 authors: []
